@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Profile>
+  <Movies>
+    <Movie name="Monty Python's Flying Circus" watched="false" directory="">
+      <Genres>
+        <Genre>Comedy</Genre>
+        <Genre>Music</Genre>
+      </Genres>
+      <Seasons>
+        <Season name="Season 1" watched="false">
+          <Episodes>
+            <Episode name="1. Whither Canada?" watched="false"/>
+            <Episode name="2. Sex and Violence" watched="false"/>
+            <Episode name="3. How to Recognise Different..." watched="false"/>
+            <Episode name="4. Owl-Stretching Time" watched="false"/>
+          </Episodes>
+        </Season>
+        <Season name="Season 2" watched="false">
+          <Episodes>
+            <Episode name="1. Dinsdale!" watched="false"/>
+            <Episode name="2. The Spanish Inquisition" watched="false"/>
+            <Episode name="3. Deja Vu" watched="false"/>
+            <Episode name="4. The Buzz Aldrin Show" watched="false"/>
+          </Episodes>
+        </Season>
+      </Seasons>
+    </Movie>
+  </Movies>
+</Profile>
